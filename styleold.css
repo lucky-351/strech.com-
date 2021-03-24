@@ -1,0 +1,42 @@
+h1{
+    color: red;
+    background-color: #b0c4de;
+    font-style: oblique;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color:red;
+    
+    font-style: oblique;
+}
+.sub1{
+    text-align: center;
+    color:red;
+    background-color:#b0c4de;
+}
+.list1{
+ background-color: rgb(189, 169, 134);
+ justify-content: center;
+ text-align: center;
+
+}
+.docweb{
+    background-color: #b0c4de;
+    display:flex;
+    justify-content: space-evenly;
+    text-align: right; 
+}
+.list2{
+    display:flex;
+    background-color:  rgb(189, 169, 134);
+    justify-content: space-around; 
+}
+.recovery{
+    display:flex;
+    background-color: rgb(189, 169, 134);
+    justify-content:space-evenly ;
+}
+.contact{
+    background-color: rgb(189, 169, 134);
+}
